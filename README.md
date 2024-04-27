@@ -3,3 +3,5 @@ A CNN for Emotion Detection that is Fully Homomorphically Encrypted
 
 
 Based on this model: https://github.com/emil-ayv/Emotion_Recognition_Project/blob/main/emotion_pred.ipynb
+
+More on Fully Homomorphically Encrypted Models: https://github.com/zama-ai/concrete-ml/tree/main
